@@ -1,0 +1,32 @@
+{
+    "tasks": [
+      {
+        "id": 1,
+        "title": "Task 1",
+        "description": "Description of Task 1",
+        "dueDate": "2023-02-25",
+        "tags": ["Tag 1", "Tag 2"],
+        "status": "OPEN",
+        "createdAt": "2023-02-16T12:30:00.000Z"
+      },
+      {
+        "id": 2,
+        "title": "Task 2",
+        "description": "Description of Task 2",
+        "dueDate": "2023-03-01",
+        "tags": ["Tag 3", "Tag 4"],
+        "status": "WORKING",
+        "createdAt": "2023-02-15T10:15:00.000Z"
+      },
+      {
+        "id": 3,
+        "title": "Task 3",
+        "description": "Description of Task 3",
+        "dueDate": null,
+        "tags": ["Tag 5"],
+        "status": "DONE",
+        "createdAt": "2023-02-14T08:00:00.000Z"
+      }
+    ]
+  }
+  
